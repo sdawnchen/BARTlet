@@ -13,12 +13,12 @@ All outputs are saved in the `results/<input>/` directory, where `<input>` is `l
 
 ```
 results
-	|__ <input>
-			|__ congruity
-			|__ distance
-			|__ magnitudes
-            |__ weights
-                  |_ ranksvm
+   |__ <input>
+          |__ congruity
+          |__ distance
+          |__ magnitudes
+          |__ weights
+                 |_ ranksvm
 ```
 
 # Specific Files
