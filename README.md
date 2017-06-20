@@ -1,6 +1,6 @@
 # Overview
 
-This is the code and data for "The discovery and comparison of symbolic magnitudes" (Chen, Lu, & Holyoak, 2014, *Cognitive Psychology*). You can read the paper [here](https://www.researchgate.net/publication/260218564_The_discovery_and_comparison_of_symbolic_magnitudes). This version of the BARTlet model includes code to:
+This is the code and data for "The discovery and comparison of symbolic magnitudes" (Chen, Lu, & Holyoak, 2014, *Cognitive Psychology*). You can download the paper [here](http://www.dawnchen.info/papers/BARTlet_Cog_Psych_2014.pdf). This version of the BARTlet model includes code to:
 
 1. Run RankSVM
 2. Learn one-place predicates using the weights learned by RankSVM as an empirical prior
